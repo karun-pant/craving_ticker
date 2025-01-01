@@ -1,3 +1,2 @@
-# push_ticker
-
-A new Flutter project.
+# Cravings Ticker
+Creating a ticker app for monitoring cravings.
